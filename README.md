@@ -2,7 +2,7 @@
 
 This folder contains information about the SSSC data management vision
 
-## Protocal Visioning
+## Protocol Visioning
 ![Screenshot 2024-07-02 112253](https://github.com/Sitka-Sound-Science-Center/data-management-visioning/assets/34327238/1d596aad-c3a2-4032-82d2-3e70b88832b6)
 
 - Scientific Integrity
