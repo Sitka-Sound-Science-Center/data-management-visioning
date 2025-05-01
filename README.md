@@ -6,7 +6,7 @@ We use the **Openscapes framework** to guide our work. This includes training, t
 - Reproducible research workflows
 - Ethical data stewardship
 - Shared documentation and cloud-based collaboration
-- Use of open-source software (e.g., R, Python, Quarto)
+- Use of open-source software (e.g., R, Python, QGIS)
 - Project management with Git and GitHub
 - Participatory learning through open communities
 
